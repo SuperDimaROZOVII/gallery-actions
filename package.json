@@ -2,7 +2,7 @@
   "name": "gallery-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SuperDimaROZOVII.github.io/Image-Gallery",
+  "homepage": "https://SuperDimaROZOVII.github.io/gallery-actions.git",
   "dependencies": {
     "@reduxjs/toolkit": "^2.9.0",
     "@testing-library/dom": "^10.4.1",
