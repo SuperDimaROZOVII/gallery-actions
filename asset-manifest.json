@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gallery-actions.git/static/css/main.d3c4d35c.css",
+    "main.js": "/gallery-actions.git/static/js/main.9290c443.js",
+    "static/js/453.435516a3.chunk.js": "/gallery-actions.git/static/js/453.435516a3.chunk.js",
+    "index.html": "/gallery-actions.git/index.html",
+    "main.d3c4d35c.css.map": "/gallery-actions.git/static/css/main.d3c4d35c.css.map",
+    "main.9290c443.js.map": "/gallery-actions.git/static/js/main.9290c443.js.map",
+    "453.435516a3.chunk.js.map": "/gallery-actions.git/static/js/453.435516a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c4d35c.css",
+    "static/js/main.9290c443.js"
+  ]
+}
